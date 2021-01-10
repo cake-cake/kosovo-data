@@ -11,7 +11,10 @@ $cities = [
         'name' => 'Ferizaj'
     ],
     [
-        'name' => 'PejëGjakovë'
+        'name' => 'Pejë'
+    ],
+    [
+        'name' => 'Gjakovë'
     ],
     [
         'name' => 'Gjilan'
